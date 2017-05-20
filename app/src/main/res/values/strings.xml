@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dictionary</string>
+    <string name="splash_image">Splash Image</string>
+    <string name="title_activity_list">Word List</string>
+</resources>
